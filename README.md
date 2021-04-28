@@ -18,7 +18,7 @@ a modification of the Gaussian distribution when its negative
 elements are reset to 0 (analogous to an electronic rectifier).
 It is essentially a mixture of a discrete distribution (constant 0)
 and a continuous distribution (a truncated Gaussian distribution with
-the interval (0 ,∞) as a result of censoring.
+the interval (0, ∞) as a result of censoring.
 
 ### Rectified Gaussian distribution with general bounds
 The special application of rectified Gaussian distribution where
