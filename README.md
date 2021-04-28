@@ -1,4 +1,4 @@
-# Rectified-Gaussian-distribution
+# Implementation of the rectified Gaussian distribution
 This is a Python implementation of Rectified Gaussian distribution using SciPy.
 
 Author: David Salac <https://github.com/david-salac>
