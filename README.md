@@ -8,7 +8,7 @@ Author: David Salac <https://github.com/david-salac>
 ## Mathematics behind
 Read more about the rectified Gaussian distribution on Wikipedia:
 
-* https://en.wikipedia.org/wiki/Rectified_Gaussian_distribution
+* [Rectified Gaussian distribution on Wikipedia](https://en.wikipedia.org/wiki/Rectified_Gaussian_distribution)
 
 this page is also a source for the implementation.
 
