@@ -1,5 +1,7 @@
 # Implementation of the rectified Gaussian distribution
 This is a Python implementation of Rectified Gaussian distribution using SciPy.
+Contains standard rectified Gaussian distribution as well as enhanced version
+with general bounds (for upper and lower clip).
 
 Author: David Salac <https://github.com/david-salac>
 
