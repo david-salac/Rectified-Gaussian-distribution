@@ -56,3 +56,9 @@ rectified_mu, rectified_std = \
 lower_bound = float('-inf')  # To skip lower bound
 upper_bound = float('+inf')  # To skip upper bound
 ```
+
+## Let us know if you find any error
+If you find any error in this implementation or if you have any idea how
+to make it better, please raise an issue on project's GitHub page:
+
+* [GitHub page of project](https://github.com/david-salac/Rectified-Gaussian-distribution)
